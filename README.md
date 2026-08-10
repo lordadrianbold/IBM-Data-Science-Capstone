@@ -4,10 +4,6 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 Presentation of the project
 The presentation covers all steps described in Jupyter Notebooks in following sections. From Data Collection, Analysis to prediction of launch succeess (succesful first stage landing) with classification algorithms. We draw a parallel between SpaceX Falcon9 and ArianeEspace Ariane5 (and coming Ariane6) that was dominating the market of commercial launches until SpaceX put an end to this domination thanks to the reusable boosters concept and induced cost reduction.
 
-Presentation - pdf
-Presentation to be downloaded (15.6MB). Will not display on Github.
-
-Presentation - pptx
 SpaceX Data Collection.
 Request to the SpaceX API.
 Clean the requested data.
